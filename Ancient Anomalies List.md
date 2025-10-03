@@ -15,7 +15,7 @@
   Arc-shaped cuts and grooves suggesting large mechanized saws.
 
 - **Knobs and Scoop Marks (Egypt, Peru, Bolivia)**  
-  Features implying standardized lifting or tooling systems.
+  Protruding bosses and hemispherical depressions on megalithic blocks found across three continents. Features show remarkable consistency in size (10-15 cm typical), placement patterns, and execution. Suggest standardized systems for lifting, positioning, or tooling with no clear parallel in conventional archaeology. Found on largest, most precisely worked stones at Giza, Sacsayhuamán, Ollantaytambo, Puma Punku, and Tiwanaku.
 
 - **Vitrification (Andean sites)**  
   Glass-like, heat-fused stone surfaces indicating high-temperature processing.
