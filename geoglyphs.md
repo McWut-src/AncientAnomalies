@@ -723,7 +723,7 @@ Among the most enigmatic ancient achievements are massive geoglyphs and earthwor
   - Conical burial mounds
   - Earthwork enclosures
   - Ritual/ceremonial focus
-  
+
 - **Hopewell Culture** (200 BCE - 500 CE)
   - Elaborate earthworks
   - Geometric enclosures
