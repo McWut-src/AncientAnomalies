@@ -4,6 +4,10 @@
 
 Throughout human history, certain architectural achievements and artifacts have defied conventional explanations. This document explores the various categories of ancient engineering mysteries that continue to challenge our understanding of historical technological capabilities, with particular focus on the technical anomalies that suggest advanced knowledge and capabilities among ancient civilizations.
 
+From megalithic structures that weigh thousands of tons and demonstrate impossible precision, to ancient artifacts that seem anachronistic for their time periods, from geoglyphs visible only from the sky to astronomical knowledge that rivals modern calculations—these anomalies invite us to reconsider what we think we know about our ancestors' capabilities.
+
+This repository provides both an overview of ancient anomalies (in this README) and in-depth documentation files that explore specific categories in comprehensive detail. Each specialized document includes technical specifications, archaeological evidence, construction theories, modern analysis, and the ongoing debates surrounding these remarkable achievements.
+
 ## Table of Contents
 - [Major Categories of Ancient Engineering Mysteries](#major-categories-of-ancient-engineering-mysteries)
 - [Technical Analysis of Key Anomalies](#technical-analysis-of-key-anomalies)
@@ -13,6 +17,20 @@ Throughout human history, certain architectural achievements and artifacts have 
 - [Comparison of Megalithic Structures](#comparison-of-megalithic-structures)
 - [Cross-Cultural Similarities](#cross-cultural-similarities)
 - [Conclusion](#conclusion)
+
+## Extended Documentation
+
+For comprehensive, in-depth analysis of specific topics, please refer to these detailed documentation files:
+
+- **[Megalithic Engineering](megalithic-engineering.md)** - Deep dive into massive stone structures including Baalbek, Giza, Sacsayhuamán, Stonehenge, Puma Punku, and more. Covers construction methods, transportation logistics, and engineering challenges.
+
+- **[Precision Stonework](precision-stonework.md)** - Detailed analysis of ancient precision achieving micron-level accuracy, including the Serapeum of Saqqara, Egyptian stone vases, Barabar Caves, core drilling, and saw marks.
+
+- **[Out-of-Place Artifacts (OOPArts)](ooparts.md)** - Comprehensive examination of anomalous artifacts including the Antikythera Mechanism, Baghdad Battery, Dendera Light, and various controversial finds.
+
+- **[Ancient Knowledge Anomalies](ancient-knowledge.md)** - Exploration of advanced ancient knowledge including Göbekli Tepe, the Piri Reis Map, ancient astronomy, mathematical constants in architecture, and knowledge transmission mysteries.
+
+- **[Geoglyphs and Earthworks](geoglyphs.md)** - Extensive documentation of large-scale ground designs including the Nazca Lines, Carnac Stones, North American mounds, Amazon geoglyphs, and desert figures worldwide.
 
 ## Major Categories of Ancient Engineering Mysteries
 
@@ -301,6 +319,27 @@ pie
 ### Scale and Implementation
 - The Nazca Lines (Peru): Enormous geoglyphs with incredible precision and scale, only fully visible from high in the air
 - Carnac Stones (France): Over 3,000 standing stones arranged in near-perfect lines stretching several kilometers, dating to around 4500 BCE
+
+## Explore Further
+
+This README provides an overview of ancient anomalies and engineering mysteries. For those seeking deeper understanding, we've created comprehensive documentation files that explore each major category in extensive detail:
+
+### Detailed Topic Guides
+
+Each guide includes:
+- ✓ **Historical Context**: Discovery, dating, and cultural background
+- ✓ **Technical Specifications**: Precise measurements and material analysis
+- ✓ **Engineering Analysis**: Construction methods and logistics
+- ✓ **Scientific Evidence**: Modern research and analytical techniques
+- ✓ **Theories and Debates**: Conventional and alternative explanations
+- ✓ **Open Questions**: Unresolved mysteries and ongoing research
+
+**Start Exploring:**
+- Begin with [Megalithic Engineering](megalithic-engineering.md) for massive stone structures
+- Dive into [Precision Stonework](precision-stonework.md) for micron-level ancient accuracy
+- Explore [OOPArts](ooparts.md) for artifacts that challenge chronology
+- Discover [Ancient Knowledge](ancient-knowledge.md) for advanced ancient astronomy and mathematics
+- Marvel at [Geoglyphs](geoglyphs.md) for large-scale landscape art and earthworks
 
 ## Conclusion
 
