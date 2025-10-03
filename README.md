@@ -22,15 +22,17 @@ This repository provides both an overview of ancient anomalies (in this README) 
 
 For comprehensive, in-depth analysis of specific topics, please refer to these detailed documentation files:
 
-- **[Megalithic Engineering](megalithic-engineering.md)** - Deep dive into massive stone structures including Baalbek, Giza, Sacsayhuamán, Stonehenge, Puma Punku, and more. Covers construction methods, transportation logistics, and engineering challenges.
+- **[Megalithic Engineering](megalithic-engineering.md)** - Deep dive into massive stone structures including Baalbek, Giza, Sacsayhuamán, Stonehenge, Puma Punku, and more. Now includes Gunung Padang, Hypogeum of Malta, Mohenjo-Daro, Preah Vihear, Yonaguni Monument, Pantheon, and Temple of Luxor. Covers construction methods, transportation logistics, and engineering challenges.
 
-- **[Precision Stonework](precision-stonework.md)** - Detailed analysis of ancient precision achieving micron-level accuracy, including the Serapeum of Saqqara, Egyptian stone vases, Barabar Caves, core drilling, and saw marks.
+- **[Precision Stonework](precision-stonework.md)** - Detailed analysis of ancient precision achieving micron-level accuracy, including the Serapeum of Saqqara, Egyptian stone vases, Barabar Caves, core drilling, and saw marks. Now includes tube-drilled holes, Western Stone of Jerusalem, Cart Ruts of Malta, and rock-cut architecture examples worldwide.
 
-- **[Out-of-Place Artifacts (OOPArts)](ooparts.md)** - Comprehensive examination of anomalous artifacts including the Antikythera Mechanism, Baghdad Battery, Dendera Light, and various controversial finds.
+- **[Out-of-Place Artifacts (OOPArts)](ooparts.md)** - Comprehensive examination of anomalous artifacts including the Antikythera Mechanism, Baghdad Battery, Dendera Light, and various controversial finds. Now includes Nimrud Lens, Sabu Disk, Greek Automata, Ulfberht Viking Swords, Shigir Idol, Quimbaya Artifacts, and critical analysis of controversial claims.
 
-- **[Ancient Knowledge Anomalies](ancient-knowledge.md)** - Exploration of advanced ancient knowledge including Göbekli Tepe, the Piri Reis Map, ancient astronomy, mathematical constants in architecture, and knowledge transmission mysteries.
+- **[Ancient Knowledge Anomalies](ancient-knowledge.md)** - Exploration of advanced ancient knowledge including Göbekli Tepe, the Piri Reis Map, ancient astronomy, mathematical constants in architecture, and knowledge transmission mysteries. Now includes Zhang Heng's Seismoscope (132 CE) and expanded coverage of Chankillo Solar Observatory.
 
 - **[Geoglyphs and Earthworks](geoglyphs.md)** - Extensive documentation of large-scale ground designs including the Nazca Lines, Carnac Stones, North American mounds, Amazon geoglyphs, and desert figures worldwide.
+
+- **[Cultural and Textual Anomalies](cultural-textual-anomalies.md)** - NEW: Comprehensive analysis of mysterious manuscripts and cultural artifacts including the Voynich Manuscript, Roman Dodecahedra, ancient texts describing advanced technology (Mahabharata/Vimanas), controversial artifacts (Dropa Stones), and medieval mysteries (Codex Gigas).
 
 ## Major Categories of Ancient Engineering Mysteries
 

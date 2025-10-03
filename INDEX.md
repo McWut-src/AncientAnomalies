@@ -13,7 +13,7 @@ Start here for a general introduction to ancient anomalies:
 ### In-Depth Topic Guides
 
 #### 🏗️ Megalithic Engineering
-**[megalithic-engineering.md](megalithic-engineering.md)** - 33,000+ words covering:
+**[megalithic-engineering.md](megalithic-engineering.md)** - 38,000+ words covering:
 - **Baalbek, Lebanon**: The Trilithon (800-1,200 tons) and Stone of the Pregnant Woman (1,650 tons)
 - **Giza Plateau, Egypt**: Great Pyramid construction, precision alignment, logistics
 - **Sacsayhuamán, Peru**: Polygonal masonry, earthquake-proof design, 120+ ton stones
@@ -22,30 +22,37 @@ Start here for a general introduction to ancient anomalies:
 - **Ollantaytambo, Peru**: Vitrification evidence, metal clamps
 - **Easter Island**: Moai transportation and carving techniques
 - **Carnac, France**: 3,000+ standing stones in precise alignments
+- **Additional Sites**: Gunung Padang, Hypogeum of Malta, Mohenjo-Daro, Preah Vihear, Yonaguni Monument, Pantheon, Temple of Luxor
 - **Construction Methods**: Transportation theories, lifting techniques, labor estimates
 - **Materials Science**: Stone properties, quarrying techniques, tool technology
 
 #### 🔬 Precision Stonework
-**[precision-stonework.md](precision-stonework.md)** - 34,000+ words covering:
+**[precision-stonework.md](precision-stonework.md)** - 42,000+ words covering:
 - **Serapeum of Saqqara**: Granite boxes with 5-micron flatness tolerance
 - **Egyptian Stone Vases**: 0.4-micron precision in hard diorite
 - **Barabar Caves**: Mirror-polished granite chambers
 - **Puma Punku**: H-blocks with submillimeter precision
 - **Core Drilling**: Feed rates 100× faster than modern diamond drills
 - **Saw Marks**: Evidence of 8-11 meter diameter saws
+- **Tube-Drilled Holes**: Advanced boring techniques with spiral grooves
+- **Western Stone (Jerusalem)**: 570-ton megalith with sub-millimeter tolerances
+- **Cart Ruts of Malta**: Engineered transport systems in bedrock
+- **Rock-Cut Architecture**: Gal Vihara, Underground Church of St. John, Jain Rock Carvings
 - **Tool Mark Analysis**: Classification and microscopic examination
 - **Modern Replication**: Experimental archaeology and CNC comparisons
 - **Engineering Analysis**: Ancient vs modern tolerances
 - **Theories**: Conventional archaeology vs alternative explanations
 
 #### ⚙️ Out-of-Place Artifacts (OOPArts)
-**[ooparts.md](ooparts.md)** - 38,000+ words covering:
+**[ooparts.md](ooparts.md)** - 47,000+ words covering:
 - **Antikythera Mechanism**: 2,000-year-old computer with 30+ bronze gears
 - **Baghdad Battery**: Ancient electrochemical cells (disputed)
 - **Dendera Light**: Egyptian relief resembling electric bulb (debated)
 - **London Hammer**: Fossil encased tool (explained)
 - **Coso Artifact**: 1920s spark plug in concretion (solved)
 - **Dorchester Pot**: Lost metal vessel in Precambrian rock (unverified)
+- **Additional Artifacts**: Nimrud Lens, Sabu Disk, Greek Automata, Ulfberht Viking Swords, Shigir Idol, Quimbaya Artifacts
+- **Controversial Claims**: Oklo Reactor, Bimini Road, Great Wall of Texas, Mount Baigong Pipes
 - **Ancient Electricity**: Evidence and theories
 - **Anachronistic Technologies**: Damascus steel, Greek fire, Roman concrete
 - **Debunked OOPArts**: Crystal skulls, Iron Pillar, Abydos helicopter
@@ -53,11 +60,12 @@ Start here for a general introduction to ancient anomalies:
 - **Methodology**: How to distinguish genuine anomalies from misidentifications
 
 #### 🗺️ Ancient Knowledge Anomalies
-**[ancient-knowledge.md](ancient-knowledge.md)** - 47,000+ words covering:
+**[ancient-knowledge.md](ancient-knowledge.md)** - 52,000+ words covering:
 - **Göbekli Tepe**: 11,500-year-old temple complex, rewriting civilization timeline
 - **Piri Reis Map**: 1513 map with controversial Antarctic coastline
 - **Ancient Astronomy**: Eclipse prediction, planetary cycles, precession
 - **Mathematical Constants**: Pi and Phi in ancient architecture
+- **Ancient Scientific Instruments**: Zhang Heng's Seismoscope (132 CE), Chankillo Solar Observatory
 - **Ancient Medicine**: Trepanation, surgical techniques, pharmacology
 - **Cartographic Anomalies**: Portolan charts, ancient world maps
 - **Ancient Texts**: Library of Alexandria, lost scientific works
@@ -79,6 +87,17 @@ Start here for a general introduction to ancient anomalies:
 - **Atacama Desert, Chile**: 5,000+ geoglyphs, Tarapacá Giant (86m tall)
 - **Purpose Analysis**: Religious, astronomical, social, territorial functions
 - **The Aerial Perspective Question**: Why visible primarily from above?
+
+#### 📜 Cultural and Textual Anomalies
+**[cultural-textual-anomalies.md](cultural-textual-anomalies.md)** - Comprehensive coverage of:
+- **Voynich Manuscript**: World's most mysterious book, undeciphered for 600 years
+- **Roman Dodecahedra**: Bronze objects with unknown purpose, found across Roman Empire
+- **Mahabharata and Vimanas**: Ancient texts describing flying machines and advanced weapons
+- **Sanskrit Texts**: Agastya Samhita and claims of ancient technology
+- **Dropa Stones**: Controversial and disputed artifacts (debunked)
+- **Codex Gigas**: The Devil's Bible, largest medieval manuscript
+- **Ancient Technology Claims**: Critical analysis of extraordinary assertions
+- **Medieval Mysteries**: Unexplained manuscripts and cultural artifacts
 
 ## How to Use This Documentation
 
