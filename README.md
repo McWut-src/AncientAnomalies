@@ -32,7 +32,9 @@ For comprehensive, in-depth analysis of specific topics, please refer to these d
 
 - **[Geoglyphs and Earthworks](geoglyphs.md)** - Extensive documentation of large-scale ground designs including the Nazca Lines, Carnac Stones, North American mounds, Amazon geoglyphs, and desert figures worldwide.
 
-- **[Cultural and Textual Anomalies](cultural-textual-anomalies.md)** - NEW: Comprehensive analysis of mysterious manuscripts and cultural artifacts including the Voynich Manuscript, Roman Dodecahedra, ancient texts describing advanced technology (Mahabharata/Vimanas), controversial artifacts (Dropa Stones), and medieval mysteries (Codex Gigas).
+- **[Cultural and Textual Anomalies](cultural-textual-anomalies.md)** - Comprehensive analysis of mysterious manuscripts and cultural artifacts including the Voynich Manuscript, Roman Dodecahedra, ancient texts describing advanced technology (Mahabharata/Vimanas), controversial artifacts (Dropa Stones), and medieval mysteries (Codex Gigas).
+
+- **[Knobs and Scoop Marks](knobs-scoop-marks.md)** - NEW: Thorough investigation of enigmatic construction features found at megalithic sites across Egypt, Peru, and Bolivia. Comprehensive analysis of physical characteristics, distribution patterns, theories of function (lifting, positioning, tooling), engineering analysis, cross-cultural comparisons, and modern experimental archaeology. Explores standardized systems for stone handling that have no clear parallel in conventional archaeology.
 
 ## Major Categories of Ancient Engineering Mysteries
 
