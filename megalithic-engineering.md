@@ -13,6 +13,7 @@ Megalithic engineering represents some of humanity's most astounding constructio
 - [Ollantaytambo, Peru: The Living Quarry](#ollantaytambo-peru-the-living-quarry)
 - [Easter Island Moai: Engineering at the Edge of Civilization](#easter-island-moai-engineering-at-the-edge-of-civilization)
 - [Carnac, France: The European Megalithic Complex](#carnac-france-the-european-megalithic-complex)
+- [Additional Megalithic Sites](#additional-megalithic-sites)
 - [Construction Theories and Methods](#construction-theories-and-methods)
 - [Transportation Logistics Analysis](#transportation-logistics-analysis)
 - [Material Science and Stone Selection](#material-science-and-stone-selection)
@@ -740,6 +741,439 @@ This unfinished monolith provides crucial evidence of ancient quarrying techniqu
 - Associated with alignments
 - Contain artifacts
 - Date to same period
+
+## Additional Megalithic Sites
+
+### Gunung Padang, Indonesia
+
+**Context:**
+- **Location**: West Java, Indonesia
+- **Dating**: Controversial - surface structures 2,000-3,000 years old, subsurface potentially 20,000+ years
+- **Type**: Terraced megalithic site on volcanic hill
+- **Status**: Ongoing research and debate
+
+**Physical Features:**
+- **Terraces**: Five ascending terraces
+- **Blocks**: Columnar andesite (volcanic rock)
+- **Area**: Approximately 900m × 300m
+- **Arrangement**: Organized blocks, some precisely fitted
+
+**Subsurface Discoveries:**
+- Ground-penetrating radar shows chambers
+- Geophysical surveys indicate man-made structures below surface
+- Dating controversies regarding deeper layers
+- Magnetic anomalies detected
+
+**Controversial Aspects:**
+- Dating methods disputed
+- Some researchers claim structures 20,000+ years old
+- Mainstream archaeology suggests younger origin
+- Ongoing excavation may resolve questions
+
+**Engineering Features:**
+- Columnar basalt precisely fitted
+- Multi-level terracing
+- Organized layout suggesting planning
+- Possible underground chambers
+- Natural geological formation vs. human construction debated
+
+### Hypogeum of Ħal-Saflieni, Malta
+
+**Context:**
+- **Location**: Paola, Malta
+- **Period**: Circa 3600-2500 BCE (Neolithic)
+- **Type**: Underground temple and burial complex
+- **Status**: UNESCO World Heritage Site
+
+**Physical Specifications:**
+- **Levels**: Three underground levels
+- **Depth**: Extends 10.6 meters below ground
+- **Chambers**: Multiple interconnected rooms
+- **Volume**: Excavated from solid limestone
+
+**Architectural Features:**
+- **Oracle Chamber**: Acoustic resonance at 110 Hz
+- **Holy of Holies**: Finely worked ceiling and walls
+- **Decorations**: Red ochre paintings, carved patterns
+- **Doorways**: Precisely cut trilithon entrances
+
+**Acoustic Phenomenon:**
+- Resonance frequency matches human voice range
+- Sound amplification in specific chambers
+- Male baritone voices most affected
+- Possible ritual significance
+- Modern studies confirm acoustic properties
+
+**Engineering Achievement:**
+- Excavated entirely with stone tools (pre-metal age)
+- Structural stability maintained for 5,000+ years
+- Precise architectural proportions
+- Sophisticated understanding of acoustics
+- Removal of estimated 2,000+ cubic meters of rock
+
+**Cultural Significance:**
+- Neolithic temple/burial complex
+- Thousands of human remains found
+- Ritual objects discovered
+- Indicates organized society
+- Advanced stoneworking capability
+
+### Megalithic Wall of Arwad, Syria
+
+**Context:**
+- **Location**: Island of Arwad, Syria
+- **Period**: 1st millennium BCE (possibly earlier)
+- **Type**: Cyclopean seawall
+- **Status**: Still partially standing
+
+**Construction Features:**
+- **Block Size**: Massive limestone blocks
+- **Technique**: Mortarless polygonal masonry
+- **Purpose**: Seawall protecting harbor
+- **Durability**: Withstood 3,000+ years of wave action
+
+**Engineering Aspects:**
+- Precision-fitted stones
+- Interlocking design
+- No mortar or binding material
+- Earthquake and erosion resistant
+- Strategic placement for harbor protection
+
+**Historical Context:**
+- Phoenician civilization
+- Maritime engineering expertise
+- Advanced harbor construction
+- Trading culture requiring ports
+- Engineering knowledge demonstrated
+
+**Comparison to Other Sites:**
+- Similar masonry to Baalbek
+- Phoenician/Levantine region
+- Polygonal technique widespread
+- Mediterranean maritime culture
+- Engineering tradition
+
+### Mohenjo-Daro, Pakistan
+
+**Context:**
+- **Location**: Sindh Province, Pakistan
+- **Period**: 3rd millennium BCE (circa 2500 BCE)
+- **Civilization**: Indus Valley Civilization
+- **Status**: UNESCO World Heritage Site
+
+**Urban Planning Features:**
+- **Grid Layout**: Organized street system
+- **Drainage**: Advanced sewer system
+- **Buildings**: Standardized brick construction
+- **Great Bath**: Large public water structure
+- **Granaries**: Massive storage facilities
+
+**Engineering Achievement:**
+- Sophisticated urban planning
+- Underground drainage system
+- Standardized fired brick production
+- Plumbing and water management
+- Public sanitation infrastructure
+
+**Technical Specifications:**
+- **Great Bath**: 12m × 7m × 2.4m deep
+- **Bricks**: Standardized ratio (4:2:1)
+- **Streets**: Grid pattern with main avenues
+- **Drainage**: Covered drains throughout city
+- **Wells**: Numerous private and public wells
+
+**Advanced Features:**
+- Indoor plumbing in private homes
+- Public waste management
+- Flood protection engineering
+- Standardized construction methods
+- Urban planning sophistication
+
+**Mysterious Aspects:**
+- Undeciphered Indus script
+- Sudden decline and abandonment
+- No palaces or temples identified
+- Egalitarian society structure
+- Advanced technology then lost
+
+### Preah Vihear Temple, Cambodia
+
+**Context:**
+- **Location**: Dângrêk Mountains, Cambodia-Thailand border
+- **Period**: 11th-12th century CE (Khmer Empire)
+- **Type**: Hindu temple complex
+- **Elevation**: 525 meters (1,722 feet) above plains
+
+**Engineering Challenge:**
+- **Location**: Steep cliff-top site
+- **Materials**: Sandstone blocks
+- **Transport**: Moving blocks up 525m elevation
+- **Terrain**: Rugged mountain slopes
+
+**Construction Features:**
+- Massive sandstone blocks
+- Precise architectural alignment
+- Multiple levels and courtyards
+- Ornate carvings throughout
+- Strategic mountain location
+
+**Transportation Mystery:**
+- Sandstone quarried from distant locations
+- Blocks transported up steep terrain
+- No clear roads or ramps identified
+- Precision placement on mountain
+- Khmer engineering capabilities
+
+**Architectural Sophistication:**
+- Aligned north-south axis
+- Multiple gopuras (entrance pavilions)
+- Carved lintels and pediments
+- Hydraulic engineering for water
+- Strategic viewpoint design
+
+**Historical Context:**
+- Khmer Empire at height
+- Hindu religious devotion
+- Engineering tradition of Angkor builders
+- Political and religious significance
+- Disputed border location today
+
+### Yonaguni Monument, Japan
+
+**Context:**
+- **Location**: Yonaguni Island, Japan (underwater)
+- **Depth**: 25-30 meters below sea level
+- **Discovery**: 1987 by Kihachiro Aratake
+- **Status**: Heavily debated - natural vs. artificial
+
+**Physical Features:**
+- **Dimensions**: Approximately 150m × 40m
+- **Features**: Stepped structures, flat surfaces, right angles
+- **Material**: Sandstone bedrock
+- **Formations**: Terraces, platforms, channels
+
+**Arguments for Artificial Origin:**
+- Straight edges and right angles
+- Flat surfaces and terraces
+- Apparent carved channels
+- Symmetrical features
+- Resemblance to architectural structures
+
+**Arguments for Natural Origin:**
+- Sandstone has natural fracture patterns
+- Geological processes can create angles
+- No tool marks identified
+- Sedimentary rock layers naturally flat
+- Similar natural formations elsewhere
+
+**Dating Implications:**
+- If man-made, created when above sea level
+- Last above water: 10,000+ years ago (end of last Ice Age)
+- Would predate known Japanese civilization
+- Revolutionary implications for prehistory
+
+**Ongoing Debate:**
+- Geologists generally favor natural origin
+- Some archaeologists see artificial features
+- No definitive evidence either way
+- Tourism impact on interpretation
+- Requires more study
+
+**Comparative Analysis:**
+- Similar underwater sites: Bimini Road, Dwarka
+- Geological vs. archaeological interpretation
+- Sea level rise post-Ice Age
+- Extraordinary claims require extraordinary evidence
+
+### Megalithic Temples of Malta
+
+**Context:**
+- **Location**: Malta and Gozo islands
+- **Period**: 4th-3rd millennium BCE (3600-2500 BCE)
+- **Number**: Over 30 temple structures
+- **Status**: UNESCO World Heritage Sites
+
+**Temple Features:**
+- **Ġgantija**: Among oldest free-standing structures worldwide
+- **Ħaġar Qim**: Sophisticated megalithic construction
+- **Mnajdra**: Astronomical alignments
+- **Tarxien**: Elaborate carvings and decorations
+
+**Construction Specifications:**
+- **Megalithic Blocks**: Up to 50+ tons
+- **Materials**: Local limestone and globigerina
+- **Technique**: Corbelled roofing, trilithon entrances
+- **Layout**: Trefoil (clover-leaf) and five-apse designs
+
+**Engineering Features:**
+- Precise astronomical alignments
+- Equinox and solstice markers
+- Sophisticated stone-fitting
+- Decorative relief carvings
+- Structural stability for 5,500+ years
+
+**Astronomical Alignments:**
+- **Mnajdra**: Equinox sunrise illumination
+- **Solstice markers**: Specific chambers lit
+- **Seasonal calendar**: Agricultural timing
+- **Precision**: Deliberate alignment requiring knowledge
+
+**Cultural Context:**
+- Pre-Bronze Age construction
+- Stone tools exclusively
+- Organized society capable of large projects
+- Religious/ritual function
+- Sophisticated cultural development
+
+**Engineering Mystery:**
+- Transport of 50-ton blocks
+- Precision fitting without metal tools
+- Astronomical knowledge demonstrated
+- Purpose and abandonment
+- Cultural continuity questions
+
+### Pyramid of the Sun, Teotihuacan
+
+**Context:**
+- **Location**: Teotihuacan, Mexico
+- **Period**: Circa 100 CE
+- **Civilization**: Teotihuacan culture
+- **Size**: Third-largest pyramid in world
+
+**Physical Specifications:**
+- **Base**: 225m × 222m (738ft × 728ft)
+- **Height**: 65.5 meters (215 feet)
+- **Volume**: 1,000,000+ cubic meters of material
+- **Weight**: Estimated 3 million tons
+
+**Construction Features:**
+- Adobe brick core
+- Stone and plaster exterior
+- Talud-tablero architectural style
+- Aligned to cardinal directions (slight offset)
+- Multi-phase construction
+
+**Engineering Scale:**
+- Material volume comparable to small mountain
+- Precise alignment and proportions
+- Massive labor requirement
+- Structural stability for 2,000 years
+- Organized construction project
+
+**Cultural Significance:**
+- Central to Avenue of the Dead
+- Religious and ceremonial function
+- Aligned with celestial events
+- Political statement of power
+- Urban planning center
+
+**Astronomical Alignments:**
+- East-west axis alignment
+- Sunset on specific dates
+- Calendrical significance
+- Pleiades setting alignment
+- Sophisticated astronomical knowledge
+
+### Pantheon, Rome
+
+**Context:**
+- **Location**: Rome, Italy
+- **Construction**: 27 BCE (original), 118-128 CE (current)
+- **Architect**: Apollodorus of Damascus (attributed)
+- **Status**: Best-preserved Roman monument
+
+**Engineering Marvel:**
+- **Dome**: 43.3 meters (142 feet) diameter
+- **Oculus**: 8.2 meter (27 foot) opening at top
+- **Material**: Roman concrete (opus caementicium)
+- **Geometry**: Perfect hemisphere interior
+
+**Technical Features:**
+- Self-supporting dome structure
+- No reinforcement (no rebar, no framework)
+- Coffered ceiling reduces weight
+- Aggregate gradation (lighter toward top)
+- Perfect spherical geometry
+
+**Concrete Technology:**
+- Volcanic ash (pozzolana) base
+- Aggregate varied by height:
+  - Base: Dense travertine
+  - Middle: Brick and volcanic tuff
+  - Top: Lightweight pumice
+- Self-healing properties
+- Exceptional durability (1,900+ years)
+
+**Structural Innovation:**
+- Load distribution through dome geometry
+- Stepped rings reduce stress
+- Oculus tension ring effect
+- Thermal expansion accommodation
+- Earthquake resistance
+
+**Construction Process:**
+- Massive wooden formwork required
+- Continuous concrete pour (no seams)
+- Precise geometric calculations
+- Material science understanding
+- Revolutionary engineering
+
+**Lost Roman Technology:**
+- Exact concrete formula lost
+- Modern concrete degrades faster
+- Seawater resistance superior
+- Self-healing properties
+- Sustainable composition
+
+### Temple of Luxor, Egypt
+
+**Context:**
+- **Location**: Luxor (ancient Thebes), Egypt
+- **Period**: Circa 1400 BCE (New Kingdom)
+- **Pharaohs**: Built by Amenhotep III, expanded by Ramesses II
+- **Status**: Major archaeological site
+
+**Architectural Features:**
+- **Colonnade**: Massive papyrus-cluster columns
+- **Peristyle Court**: Surrounded by columns
+- **Obelisks**: Originally two (one now in Paris)
+- **Statues**: Colossal seated statues of Ramesses II
+- **Pylon**: Massive entrance gateway
+
+**Engineering Specifications:**
+- **Columns**: 14 papyrus columns, 16 meters (52 feet) high
+- **Material**: Sandstone blocks
+- **Obelisk**: 25 meters (82 feet), 254 tons
+- **Court**: 55m × 51m open courtyard
+- **Pylon**: 65 meters wide
+
+**Construction Techniques:**
+- Massive sandstone block masonry
+- Precise column alignment
+- Carved hieroglyphics throughout
+- Integrated architectural plan
+- Multiple building phases coordinated
+
+**Precision Features:**
+- Column capitals detailed papyrus motifs
+- Precise vertical alignment
+- Decorated surfaces throughout
+- Architrave placement precision
+- Structural stability for 3,400 years
+
+**Cultural Significance:**
+- Religious center (Amun-Ra worship)
+- Annual Opet Festival route
+- Political power demonstration
+- Artistic achievement
+- Continuous use through millennia
+
+**Modern Analysis:**
+- Restoration ongoing
+- Study of construction methods
+- Understanding of ancient engineering
+- Cultural importance maintained
+- Tourism and preservation balance
 
 ## Construction Theories and Methods
 
