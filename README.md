@@ -196,7 +196,7 @@ flowchart LR
 
 ```mermaid
 pie
-    title Approximate Weight of Largest Stone Blocks (tons)
+    Title Approximate Weight of Largest Stone Blocks (tons)
     "Stone of Pregnant Woman (Baalbek)" : 1650
     "Trilithon Block (Baalbek)" : 1200
     "Sacsayhuamán (Peru)" : 120
