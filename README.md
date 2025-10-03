@@ -162,7 +162,7 @@ Across numerous sites in Egypt and Peru, hard stones show marks inconsistent wit
   - Lips on cuts indicating blade widths of only a few millimeters
   - Regular striations suggesting powered, consistent cutting action
 
-- **Tube Drills**: 
+- **Tube Drills**:
   - Perfectly cylindrical core holes, often with spiral grooves
   - Tube-drilled holes with spiral groove signatures appear in both Egyptian granite and South American andesite and basalt
   - Core drilling requiring technology capable of cutting through the hardest stones with precision
@@ -232,30 +232,30 @@ Across numerous sites in Egypt and Peru, hard stones show marks inconsistent wit
 ```mermaid
 graph TD
     World[Global Distribution of Ancient Engineering Marvels]
-    
+
     Europe[Europe]
     MidEast[Middle East]
     Asia[Asia]
     Americas[Americas]
     Africa[Africa]
-    
+
     Europe --> Stonehenge[Stonehenge, UK]
     Europe --> Carnac[Carnac Stones, France]
-    
+
     MidEast --> Baalbek[Baalbek, Lebanon]
     MidEast --> Gobekli[Göbekli Tepe, Turkey]
     MidEast --> Baghdad[Baghdad Battery, Iraq]
-    
+
     Asia --> Barabar[Barabar Caves, India]
-    
+
     Americas --> Sacsayhuaman[Sacsayhuamán, Peru]
     Americas --> Nazca[Nazca Lines, Peru]
     Americas --> PumaPunku[Puma Punku, Bolivia]
-    
+
     Africa --> Giza[Giza Plateau, Egypt]
     Africa --> Saqqara[Serapeum of Saqqara, Egypt]
     Africa --> Dendera[Dendera Light, Egypt]
-    
+
     Mediterranean[Mediterranean Region] --> PiriReis[Piri Reis Map]
     Mediterranean --> Antikythera[Antikythera Mechanism]
 ```
@@ -265,7 +265,7 @@ graph TD
 ```mermaid
 timeline
     title Ancient Engineering Timeline
-    9500 BCE : Göbekli Tepe constructed (Turkey)
+    9500-10000 BCE : Göbekli Tepe constructed (Turkey)
     4500 BCE : Carnac Stones erected (France)
     3000-2500 BCE : Giza Pyramids built (Egypt)
     2500-2000 BCE : Stonehenge construction (UK)
@@ -284,16 +284,16 @@ timeline
 flowchart LR
     Tools[Tool Technology] --> |Enables| Precision[Precision Cutting]
     Tools --> |Enables| Transportation[Transportation Methods]
-    
+
     Precision --> |Creates| Stonework[Complex Stonework]
     Transportation --> |Allows| Megalithic[Megalithic Construction]
-    
+
     Astronomical[Astronomical Knowledge] --> |Informs| Alignment[Site Alignment]
     Alignment --> |Determines| Layout[Site Layout]
-    
+
     Mathematical[Mathematical Knowledge] --> Layout
     Mathematical --> Precision
-    
+
     Stonework --> |Results in| Structures[Enduring Structures]
     Megalithic --> Structures
     Layout --> Structures
@@ -328,7 +328,7 @@ pie
 
 - **The Antikythera Mechanism** (2nd-century BCE): Complex analog computer with over 30 interlocking bronze gears that predicted astronomical positions
 - **The Piri Reis Map** (1513): Shows parts of world with remarkable accuracy, including what appears to be an ice-free Antarctic coastline
-- **Göbekli Tepe** (9500 BCE): Monumental architecture 6,000 years before Stonehenge by pre-agricultural hunter-gatherers
+- **Göbekli Tepe** (9,500-10,000 BCE): Monumental architecture 6,000 years before Stonehenge by pre-agricultural hunter-gatherers
 
 ### Scale and Implementation
 - The Nazca Lines (Peru): Enormous geoglyphs with incredible precision and scale, only fully visible from high in the air

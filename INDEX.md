@@ -61,7 +61,7 @@ Start here for a general introduction to ancient anomalies:
 
 #### 🗺️ Ancient Knowledge Anomalies
 **[ancient-knowledge.md](ancient-knowledge.md)** - 52,000+ words covering:
-- **Göbekli Tepe**: 11,500-year-old temple complex, rewriting civilization timeline
+- **Göbekli Tepe**: 9,500-10,000 BCE temple complex, rewriting civilization timeline
 - **Piri Reis Map**: 1513 map with controversial Antarctic coastline
 - **Ancient Astronomy**: Eclipse prediction, planetary cycles, precession
 - **Mathematical Constants**: Pi and Phi in ancient architecture
@@ -231,7 +231,7 @@ Each detailed document follows a consistent structure:
 ### Timeline of Key Sites
 | Site | Dating | Culture | Significance |
 |------|--------|---------|--------------|
-| Göbekli Tepe | 9,500 BCE | Pre-pottery Neolithic | Oldest temple complex |
+| Göbekli Tepe | 9,500-10,000 BCE | Pre-pottery Neolithic | Oldest temple complex |
 | Carnac Stones | 4,500 BCE | Neolithic | Largest megalithic site |
 | Giza Pyramids | 2,560 BCE | Old Kingdom Egypt | Massive scale + precision |
 | Stonehenge | 3,000-1,600 BCE | Neolithic/Bronze Age | Long-distance transport |
@@ -386,7 +386,7 @@ Each document includes references to:
 - **Total Characters**: 558,000+
 - **Total Pages**: ~280 pages equivalent
 - **Topics Covered**: 110+ specific sites, artifacts, and phenomena
-- **Time Period Covered**: 11,500 years (Göbekli Tepe to present)
+- **Time Period Covered**: ~12,000 years (from 9,500-10,000 BCE to present)
 - **Geographic Coverage**: All inhabited continents
 
 ## Conclusion
