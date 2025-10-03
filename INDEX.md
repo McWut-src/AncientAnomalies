@@ -99,21 +99,36 @@ Start here for a general introduction to ancient anomalies:
 - **Ancient Technology Claims**: Critical analysis of extraordinary assertions
 - **Medieval Mysteries**: Unexplained manuscripts and cultural artifacts
 
-#### 🔨 Knobs and Scoop Marks
-**[knobs-scoop-marks.md](knobs-scoop-marks.md)** - NEW: 50,000+ words covering:
-- **Egyptian Examples**: Giza Plateau, Aswan quarries, Saqqara complex knobs and scoop marks
-- **Peruvian Examples**: Sacsayhuamán, Ollantaytambo, Cuzco, Machu Picchu megalithic features
-- **Bolivian Examples**: Puma Punku and Tiwanaku construction features
-- **Physical Characteristics**: Classification of knob types (boss, nub, ridge) and scoop types (hemispherical, oval, channel)
-- **Technical Analysis**: Dimensional measurements, statistical analysis, material evidence
-- **Distribution Patterns**: Spatial distribution, block size correlations, site-wide patterns, standardization evidence
-- **Theories of Function**: Lifting/transportation, positioning/alignment, quarrying, tooling interfaces, structural/mechanical, religious/symbolic
+#### 🔨 Knobs
+**[knobs.md](knobs.md)** - NEW: Comprehensive investigation of protruding bosses on ancient megalithic stones:
+- **Egyptian Examples**: Giza Plateau, Aswan quarries, Saqqara complex, Sphinx Temple
+- **Peruvian Examples**: Sacsayhuamán megalithic walls, Ollantaytambo unfinished blocks, Cuzco temples, Machu Picchu
+- **Bolivian Examples**: Puma Punku H-blocks, Tiwanaku Gateway of the Sun
+- **Physical Characteristics**: Classification of knob types (protruding boss, nub, ridge knobs)
+- **Technical Analysis**: Dimensional measurements across sites, statistical analysis, height/diameter ratios
+- **Distribution Patterns**: Corner vs. face center vs. edge placement, block size correlations, standardization evidence
+- **Theories of Function**: Lifting/transportation aids, positioning references, quarrying remnants, tooling interfaces, structural function
 - **Engineering Analysis**: Load bearing capabilities, rope mechanics, precision positioning requirements
-- **Cross-Cultural Comparisons**: Egyptian-Peruvian parallels, Bolivian context, Mediterranean and Asian examples
-- **Tool Marks**: Manufacturing evidence, creation techniques, unfinished work analysis
-- **Modern Experiments**: Replication attempts, load testing, stone working studies
-- **Archaeological Context**: Dating challenges, timeline analysis, stratigraphy
-- **Alternative Theories**: Conventional view, lost technology hypothesis, cultural diffusion, multi-phase construction
+- **Cross-Cultural Comparisons**: Egyptian-Peruvian parallels, Andean tradition, global megalithic practices
+- **Tool Marks**: Percussion shaping, abrasion/grinding, manufacturing time estimates
+- **Modern Experiments**: Block lifting tests, load testing with knobs, replication attempts
+- **Archaeological Context**: Dating timelines, cultural attribution, stratigraphy challenges
+- **Alternative Theories**: Conventional view, lost technology, cultural diffusion, multi-phase construction
+
+#### 🥄 Scoop Marks
+**[scoop-marks.md](scoop-marks.md)** - NEW: Deep dive into enigmatic curved depressions at ancient sites:
+- **Egyptian Examples**: Aswan quarries (extensive), Unfinished Obelisk area, quarry wall patterns
+- **Peruvian Examples**: Ollantaytambo quarry walls, Sacsayhuamán limited examples
+- **Bolivian Examples**: Puma Punku and Tiwanaku scattered occurrences
+- **Physical Characteristics**: Hemispherical scoops, oval scoops, channel scoops
+- **Technical Analysis**: Dimensional measurements, depth/diameter ratios, volume calculations, surface analysis
+- **Tool Mark Evidence**: Spiral patterns, concentric circles, rotary cutting indicators
+- **Distribution Patterns**: Quarry concentrations, linear arrangements, grid patterns
+- **Theories of Function**: Quarrying technique, surface preparation, tool sharpening, anchor points, drilling remnants
+- **Manufacturing Evidence**: Rotary tool marks, spiral pattern analysis, surface finish quality
+- **Modern Experiments**: Tube drill replication, rotary cutting tests, material removal rates
+- **Archaeological Context**: Dating challenges, quarrying operations, cultural contexts
+- **Alternative Theories**: Natural formation (minority), advanced tool technology, quarrying methodology
 
 ## How to Use This Documentation
 
@@ -326,13 +341,19 @@ This documentation presents multiple perspectives on ancient anomalies:
 - Summary: README.md (cross-cultural similarities section)
 - Examples: megalithic-engineering.md (global polygonal masonry)
 - Analysis: precision-stonework.md (similar tool marks worldwide)
-- New Analysis: knobs-scoop-marks.md (cross-continental construction features)
+- New Analysis: knobs.md and scoop-marks.md (separate comprehensive investigations)
 
-### Knobs and Scoop Marks Coverage
-- Primary: knobs-scoop-marks.md (comprehensive investigation)
+### Knobs Coverage
+- Primary: knobs.md (comprehensive investigation of protruding bosses)
 - Mentioned: README.md (overview in engineering anomalies)
 - Related: megalithic-engineering.md (Sacsayhuamán knobs and protrusions)
 - Related: precision-stonework.md (knobs and standardization section)
+
+### Scoop Marks Coverage
+- Primary: scoop-marks.md (comprehensive investigation of carved depressions)
+- Mentioned: README.md (overview in engineering anomalies)
+- Related: precision-stonework.md (tool marks and manufacturing evidence)
+- Related: megalithic-engineering.md (quarrying techniques)
 
 ## Contributing and Updates
 

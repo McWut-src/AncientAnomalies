@@ -34,7 +34,9 @@ For comprehensive, in-depth analysis of specific topics, please refer to these d
 
 - **[Cultural and Textual Anomalies](cultural-textual-anomalies.md)** - Comprehensive analysis of mysterious manuscripts and cultural artifacts including the Voynich Manuscript, Roman Dodecahedra, ancient texts describing advanced technology (Mahabharata/Vimanas), controversial artifacts (Dropa Stones), and medieval mysteries (Codex Gigas).
 
-- **[Knobs and Scoop Marks](knobs-scoop-marks.md)** - NEW: Thorough investigation of enigmatic construction features found at megalithic sites across Egypt, Peru, and Bolivia. Comprehensive analysis of physical characteristics, distribution patterns, theories of function (lifting, positioning, tooling), engineering analysis, cross-cultural comparisons, and modern experimental archaeology. Explores standardized systems for stone handling that have no clear parallel in conventional archaeology.
+- **[Knobs](knobs.md)** - NEW: Comprehensive investigation of protruding bosses and protrusions on ancient megalithic stones. Found at sites across Egypt, Peru, and Bolivia, these enigmatic features show remarkable cross-cultural consistency. Analysis covers physical characteristics, dimensional measurements, distribution patterns, theories of function (lifting aids, positioning references, quarrying remnants), engineering analysis of load-bearing capabilities, tool marks and manufacturing evidence, modern experimental archaeology, and cross-cultural comparisons.
+
+- **[Scoop Marks](scoop-marks.md)** - NEW: Deep dive into curved depressions and hemispherical scoops found at ancient quarries and construction sites. Particularly extensive at Aswan quarries in Egypt and Ollantaytambo in Peru. Analysis includes physical characteristics of different scoop types, technical measurements, tool mark evidence suggesting rotary cutting tools, theories of function (quarrying technique, tool preparation, drilling remnants), modern replication attempts, and the enigma of their creation method.
 
 ## Major Categories of Ancient Engineering Mysteries
 
@@ -174,10 +176,18 @@ Across numerous sites in Egypt and Peru, hard stones show marks inconsistent wit
 
 #### Megalithic Construction Features
 
-**Knobs and Scoop Marks:**
-- Found at sites in Egypt, Peru, and Bolivia
-- These features suggest standardized systems for lifting, positioning, or tooling, for which no direct technological parallel exists
-- Consistent size and placement indicates systematic approach to construction
+**Knobs:**
+- Protruding bosses found on megalithic blocks in Egypt, Peru, and Bolivia
+- Remarkable consistency in dimensions (height/diameter ratio ~0.5) across distant sites
+- Theories include lifting aids, positioning references, or quarrying remnants
+- See [knobs.md](knobs.md) for comprehensive analysis
+
+**Scoop Marks:**
+- Hemispherical depressions in stone, particularly at quarry sites
+- Evidence of rotary cutting tools with spiral tool marks
+- Extensive examples at Aswan quarries and Ollantaytambo
+- Creation method and purpose remain enigmatic
+- See [scoop-marks.md](scoop-marks.md) for detailed investigation
 
 **Polygonal Masonry:**
 - Precision-fitted, mortarless blocks that interlock in earthquake-resistant arrangements
