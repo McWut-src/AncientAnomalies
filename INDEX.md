@@ -130,6 +130,22 @@ Start here for a general introduction to ancient anomalies:
 - **Archaeological Context**: Dating challenges, quarrying operations, cultural contexts
 - **Alternative Theories**: Natural formation (minority), advanced tool technology, quarrying methodology
 
+#### 🔬 Stone Softening Hypothesis
+**[stone-softening-hypothesis.md](stone-softening-hypothesis.md)** - NEW: Comprehensive speculative analysis examining nubs, knobs, and scoop marks under a stone softening framework:
+- **⚠️ SPECULATIVE ANALYSIS**: Intellectual thought experiment, not established archaeological fact
+- **Global Feature Analysis**: Comprehensive examination of nubs/knobs across Egypt, Peru, Bolivia, and other sites
+- **Dimensional Consistency**: Statistical analysis of height/diameter ratios (~0.5) across cultures
+- **Bedrock Nubs**: Critical analysis of nubs embedded in mountain bedrock (challenges lifting aid theory)
+- **Scoop Marks Framework**: Examination of hemispherical depressions as potential traces of plastic stone working
+- **Cross-Cultural Patterns**: Analysis of remarkable morphological consistency across distant civilizations
+- **Hypothesis Mechanisms**: Four potential mechanisms for nub formation, three for scoop mark creation
+- **Integration with Anomalies**: Connections to precision stonework, core drilling rates, and vitrification
+- **Testable Predictions**: Specific evidence that would validate or refute the hypothesis
+- **Research Recommendations**: Chemical analysis, microstructure studies, experimental archaeology
+- **Scaling Analysis**: Evidence of features across size continuum from small to megalithic
+- **Intellectual Honesty**: Clear disclaimers, counter-arguments addressed, balanced evaluation throughout
+- **Data Tables**: Comprehensive dimensional data, statistical correlations, comparative measurements
+
 ## How to Use This Documentation
 
 ### For General Interest
@@ -355,6 +371,14 @@ This documentation presents multiple perspectives on ancient anomalies:
 - Related: precision-stonework.md (tool marks and manufacturing evidence)
 - Related: megalithic-engineering.md (quarrying techniques)
 
+### Stone Softening Hypothesis Coverage
+- Primary: stone-softening-hypothesis.md (speculative analysis of nubs and scoops under softening framework)
+- Cross-references: knobs.md (nub dimensional data and distribution)
+- Cross-references: scoop-marks.md (scoop mark characteristics and measurements)
+- Cross-references: precision-stonework.md (core drilling anomalies, precision achievements)
+- Cross-references: megalithic-engineering.md (vitrification, construction methods)
+- Related: All documents discussing knobs, nubs, and scoop marks at megalithic sites
+
 ## Contributing and Updates
 
 This documentation represents a comprehensive snapshot of ancient anomalies knowledge. The field continues to evolve with:
@@ -368,7 +392,7 @@ This documentation represents a comprehensive snapshot of ancient anomalies know
 
 ### Within This Repository
 - **README.md**: Quick overview and visual diagrams
-- **Seven detailed documents**: In-depth analysis by category
+- **Eight detailed documents**: In-depth analysis by category
 - **INDEX.md** (this file): Navigation and organization
 
 ### For Further Research
@@ -381,9 +405,9 @@ Each document includes references to:
 
 ## Document Statistics
 
-- **Total Documents**: 7 markdown files
-- **Total Words**: 79,000+
-- **Total Characters**: 558,000+
+- **Total Documents**: 8 markdown files
+- **Total Words**: 84,000+
+- **Total Characters**: 594,000+
 - **Total Pages**: ~280 pages equivalent
 - **Topics Covered**: 110+ specific sites, artifacts, and phenomena
 - **Time Period Covered**: ~12,000 years (from 9,500-10,000 BCE to present)
