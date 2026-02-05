@@ -146,6 +146,22 @@ Start here for a general introduction to ancient anomalies:
 - **Intellectual Honesty**: Clear disclaimers, counter-arguments addressed, balanced evaluation throughout
 - **Data Tables**: Comprehensive dimensional data, statistical correlations, comparative measurements
 
+#### 📉 Construction Phases
+**[construction-phases.md](construction-phases.md)** - NEW: Comprehensive documentation of the pattern where most sophisticated megalithic work appears in the oldest layers:
+- **The Degradation Pattern**: Evidence that biggest/most sophisticated = oldest, contradicting conventional development models
+- **Pachakuti Framework**: Quechua cosmological time periods mapped onto observable Andean construction phases
+- **Global Evidence**: Egypt (pyramid sequence), Peru (Sacsayhuamán layers), Bolivia (Puma Punku), Turkey (Göbekli Tepe inverted timeline), Malta (temple sequence), Easter Island (moai collapse)
+- **Weathering Analysis**: Quantitative weathering measurements showing oldest phases have heaviest weathering across all sites
+- **Egypt Weathering**: Sphinx water erosion, Valley Temple differential weathering, Osireion anomalies
+- **Peru Weathering**: Stratified erosion at Sacsayhuamán (5-15mm oldest vs. 0.5-2mm newest), Ollantaytambo multi-phase evidence
+- **Bolivia Critical Evidence**: Puma Punku precision predates weathering (weathering within cuts proves precision is original)
+- **Göbekli Tepe**: Rigorously dated inverted timeline (Layer III oldest = most sophisticated, 9600-8800 BCE)
+- **Spanish Chronicles**: Pedro Cieza de León documenting Inca claims they didn't build megalithic foundations
+- **Critical Analysis**: Conventional explanations (resource depletion, motivation decline) vs. alternative explanations (lost techniques, catastrophic knowledge loss)
+- **Testable Predictions**: Archaeological and geological predictions, falsification criteria
+- **Evidence-Based Approach**: Clear distinction between confirmed observations and speculative interpretations
+- **Cross-References**: Integration with megalithic-engineering.md, precision-stonework.md, ancient-knowledge.md, knobs.md
+
 ## How to Use This Documentation
 
 ### For General Interest
@@ -379,6 +395,14 @@ This documentation presents multiple perspectives on ancient anomalies:
 - Cross-references: megalithic-engineering.md (vitrification, construction methods)
 - Related: All documents discussing knobs, nubs, and scoop marks at megalithic sites
 
+### Construction Phases Coverage
+- Primary: construction-phases.md (comprehensive documentation of degradation pattern at ancient sites)
+- Cross-references: megalithic-engineering.md (site details, construction methods)
+- Cross-references: precision-stonework.md (precision measurements across phases)
+- Cross-references: ancient-knowledge.md (Göbekli Tepe inverted timeline)
+- Cross-references: knobs.md (feature distribution across phases)
+- Related: All documents discussing multi-phase construction and chronological sequences
+
 ## Contributing and Updates
 
 This documentation represents a comprehensive snapshot of ancient anomalies knowledge. The field continues to evolve with:
@@ -392,7 +416,7 @@ This documentation represents a comprehensive snapshot of ancient anomalies know
 
 ### Within This Repository
 - **README.md**: Quick overview and visual diagrams
-- **Eight detailed documents**: In-depth analysis by category
+- **Nine detailed documents**: In-depth analysis by category
 - **INDEX.md** (this file): Navigation and organization
 
 ### For Further Research
@@ -405,10 +429,10 @@ Each document includes references to:
 
 ## Document Statistics
 
-- **Total Documents**: 8 markdown files
-- **Total Words**: 84,000+
-- **Total Characters**: 594,000+
-- **Total Pages**: ~280 pages equivalent
+- **Total Documents**: 9 markdown files
+- **Total Words**: 105,000+
+- **Total Characters**: 655,000+
+- **Total Pages**: ~310 pages equivalent
 - **Topics Covered**: 110+ specific sites, artifacts, and phenomena
 - **Time Period Covered**: ~12,000 years (from 9,500-10,000 BCE to present)
 - **Geographic Coverage**: All inhabited continents

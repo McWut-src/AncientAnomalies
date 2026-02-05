@@ -38,6 +38,8 @@ For comprehensive, in-depth analysis of specific topics, please refer to these d
 
 - **[Scoop Marks](scoop-marks.md)** - NEW: Deep dive into curved depressions and hemispherical scoops found at ancient quarries and construction sites. Particularly extensive at Aswan quarries in Egypt and Ollantaytambo in Peru. Analysis includes physical characteristics of different scoop types, technical measurements, tool mark evidence suggesting rotary cutting tools, theories of function (quarrying technique, tool preparation, drilling remnants), modern replication attempts, and the enigma of their creation method.
 
+- **[Construction Phases](construction-phases.md)** - NEW: Comprehensive documentation of the observable pattern where the most sophisticated and massive megalithic work appears in the **oldest** layers at ancient sites, followed by progressive degradation in quality, scale, and precision over time. Includes the Pachakuti Framework (Andean construction phases), global evidence from Egypt, Peru, Bolivia, Turkey, Malta, and Easter Island, quantitative weathering analysis proving oldest phases have heaviest weathering, Spanish chronicle evidence, Göbekli Tepe's rigorously dated inverted timeline, and critical analysis of conventional vs. alternative explanations. Demonstrates that peak capability came first, contradicting expected technological development curves.
+
 ## Major Categories of Ancient Engineering Mysteries
 
 ### Megalithic Engineering & Logistics 🏗️
