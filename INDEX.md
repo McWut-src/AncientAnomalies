@@ -162,6 +162,19 @@ Start here for a general introduction to ancient anomalies:
 - **Evidence-Based Approach**: Clear distinction between confirmed observations and speculative interpretations
 - **Cross-References**: Integration with megalithic-engineering.md, precision-stonework.md, ancient-knowledge.md, knobs.md
 
+#### 🏛️ Pyramid Casing Construction
+**[pyramid-casing-construction.md](pyramid-casing-construction.md)** - NEW: Detailed analysis of the Great Pyramid's construction methodology based on surviving casing stones:
+- **Surviving Casing Stones**: Observable evidence from upper courses near apex, block type categorization (corner, standard, tapered, irregular)
+- **8-Sided Geometry**: The Great Pyramid's subtle concavity (~0.92m) creating a critical engineering constraint requiring continuous corner visibility
+- **Corner-First Methodology**: Evidence-based reconstruction of three-phase placement sequence (corners first, fill blocks second, tapered connectors third)
+- **Engineering Rationale**: Surveying control, 8-sided geometry maintenance, tolerance management, work crew organization (eight crews: two per face)
+- **Ramp Theory Implications**: What the evidence rules out (external straight ramps, spiral ramps) vs. what it supports (internal ramp theory)
+- **Internal Ramp Hypothesis**: Jean-Pierre Houdin's 2007 theory with supporting evidence from microgravimetry, thermal imaging, corner notches
+- **Construction Sequence Model**: Per-course methodology with detailed time and labor estimates
+- **Block Type Distribution**: Systematic analysis of corner blocks (5-10%), standard blocks (60-70%), tapered connectors (15-25%), irregular fill (10-15%)
+- **Open Questions**: Precision verification methods, block pre-planning vs. on-site shaping, muon tomography confirmation, work crew organization
+- **Cross-References**: Integration with megalithic-engineering.md, precision-stonework.md, construction-phases.md, ancient-knowledge.md
+
 ## How to Use This Documentation
 
 ### For General Interest
@@ -403,6 +416,16 @@ This documentation presents multiple perspectives on ancient anomalies:
 - Cross-references: knobs.md (feature distribution across phases)
 - Related: All documents discussing multi-phase construction and chronological sequences
 
+### Pyramid Casing Construction Coverage
+- Primary: pyramid-casing-construction.md (detailed analysis of Great Pyramid construction methodology)
+- Cross-references: megalithic-engineering.md (Great Pyramid specifications and construction context)
+- Cross-references: precision-stonework.md (precision measurements, joint quality, tool marks)
+- Cross-references: construction-phases.md (Egyptian pyramid sequence and quality patterns)
+- Cross-references: ancient-knowledge.md (surveying techniques, mathematical knowledge)
+- Related: All documents discussing Egyptian construction methods and pyramid engineering
+- Cross-references: knobs.md (feature distribution across phases)
+- Related: All documents discussing multi-phase construction and chronological sequences
+
 ## Contributing and Updates
 
 This documentation represents a comprehensive snapshot of ancient anomalies knowledge. The field continues to evolve with:
@@ -416,7 +439,7 @@ This documentation represents a comprehensive snapshot of ancient anomalies know
 
 ### Within This Repository
 - **README.md**: Quick overview and visual diagrams
-- **Nine detailed documents**: In-depth analysis by category
+- **Ten detailed documents**: In-depth analysis by category
 - **INDEX.md** (this file): Navigation and organization
 
 ### For Further Research
@@ -429,11 +452,11 @@ Each document includes references to:
 
 ## Document Statistics
 
-- **Total Documents**: 9 markdown files
-- **Total Words**: 105,000+
-- **Total Characters**: 655,000+
-- **Total Pages**: ~310 pages equivalent
-- **Topics Covered**: 110+ specific sites, artifacts, and phenomena
+- **Total Documents**: 10 markdown files
+- **Total Words**: 175,000+
+- **Total Characters**: 725,000+
+- **Total Pages**: ~380 pages equivalent
+- **Topics Covered**: 115+ specific sites, artifacts, and phenomena
 - **Time Period Covered**: ~12,000 years (from 9,500-10,000 BCE to present)
 - **Geographic Coverage**: All inhabited continents
 
