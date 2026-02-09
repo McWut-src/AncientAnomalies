@@ -42,6 +42,8 @@ For comprehensive, in-depth analysis of specific topics, please refer to these d
 
 - **[Pyramid Casing Construction](pyramid-casing-construction.md)** - NEW: Detailed analysis of the Great Pyramid's construction methodology based on surviving casing stones and the 8-sided geometry constraint. Covers the corner-first construction pattern (evidence from block types, placement sequences, and work crew organization), the engineering implications of the pyramid's subtle concavity (0.92m depth requiring continuous corner visibility), analysis of block type distribution (corner blocks, standard rectangular, tapered connectors, irregular fill), implications for ramp theories (what the evidence rules out vs. supports), Jean-Pierre Houdin's internal ramp hypothesis with supporting evidence from microgravimetry and thermal imaging, detailed construction sequence model with time and labor estimates, and integration with broader Egyptian engineering capabilities.
 
+- **[Predynastic Hard-Stone Vases](predynastic-vases.md)** - NEW: Comprehensive analysis of predynastic Egyptian hard-stone vases (Naqada II-III, c. 3600-3100 BCE) and the engineering mysteries they present. Covers metrological evidence from the Scan the Vases project (2024-2025) showing 15-50 µm circularity deviations on museum-provenanced specimens, the handle problem (integral handles geometrically incompatible with single-axis lathes), the machine-tool precision paradox, material analysis of hard stones (diorite, granite, basalt at Mohs 6-7), experimental archaeology replication attempts, absence of rotary machinery evidence predating the potter's wheel, six competing theories of manufacture, the provenance and forgery problem, modern manufacturing comparison (5-axis CNC required), and integration with broader ancient precision evidence.
+
 ## Major Categories of Ancient Engineering Mysteries
 
 ### Megalithic Engineering & Logistics 🏗️
@@ -92,6 +94,7 @@ This category focuses on artifacts and features that display a level of precisio
 - **Comparison**: Precision multiples better than modern ceramics
 - **Materials**: Perfect symmetry in vessels made from extremely hard materials like diorite
 - **Technology Gap**: No evidence of the advanced lathe technology that would typically be required for such work
+- **Deep Dive**: See [predynastic-vases.md](predynastic-vases.md) for comprehensive analysis including the handle problem, machine-tool paradox, and full metrological data
 
 ### Out-of-Place Artifacts (OOPArts) ⚙️
 
@@ -230,6 +233,17 @@ Across numerous sites in Egypt and Peru, hard stones show marks inconsistent wit
 - Consistent proportional relationships in architecture spanning continents
 - Recurring mathematical constants (like pi and phi) embedded in diverse structures
 - Suggests sophisticated mathematical knowledge and standardized construction methodologies
+
+**Ancient Precision Measurements:**
+
+| Artifact/Site | Precision | Modern Equivalent |
+|--------------|-----------|-------------------|
+| Predynastic Vases (Scan the Vases) | 15-50 microns circularity | Approaches modern CNC lathe |
+| Egyptian Stone Vases | 0.4 microns | Better than CNC lathe |
+| Serapeum Boxes | 5 microns | Equals precision grinding |
+| Puma Punku H-blocks | 1-2 mm | Standard machining |
+| Barabar Caves | <0.1 micron surface | Optical quality |
+| Great Pyramid Base | 2.1 cm over 230m | 1:10,000 leveling |
 
 ## Geographic Distribution
 

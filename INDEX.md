@@ -43,6 +43,20 @@ Start here for a general introduction to ancient anomalies:
 - **Engineering Analysis**: Ancient vs modern tolerances
 - **Theories**: Conventional archaeology vs alternative explanations
 
+#### 🏺 Predynastic Hard-Stone Vases
+**[predynastic-vases.md](predynastic-vases.md)** - NEW: Comprehensive analysis of predynastic Egyptian hard-stone vases and the engineering mysteries they present:
+- **Metrological Evidence**: Scan the Vases project (2024-2025) data showing 15-50 µm circularity on museum-provenanced specimens
+- **The Handle Problem**: Why integral handles are geometrically incompatible with single-axis lathes
+- **Machine-Tool Paradox**: The bootstrap problem of needing precision machinery to build precision machinery
+- **Archaeological Context**: Naqada II-III dating (c. 3600-3100 BCE), provenance from Petrie/Quibell/de Morgan excavations
+- **Material Analysis**: Hard stones (diorite, granite, basalt at Mohs 6-7) and their working challenges
+- **Experimental Archaeology**: Replication attempts by Stocks, Vdovina, and others — none achieving observed precision
+- **Absence of Evidence**: No rotary machinery found predating potter's wheel (Old Kingdom, c. 2686 BCE)
+- **Theories**: Mainstream (skill + time), lost rotary technology, multi-axis devices, template methods, stone softening
+- **Provenance Problem**: Distinguishing museum-provenanced measurements from unprovenanced/potentially forged specimens
+- **Modern Comparison**: Equivalent precision requires 5-axis CNC (available only since late 1970s-1980s)
+- **Cross-References**: Integration with precision-stonework.md, construction-phases.md, stone-softening-hypothesis.md
+
 #### ⚙️ Out-of-Place Artifacts (OOPArts)
 **[ooparts.md](ooparts.md)** - 47,000+ words covering:
 - **Antikythera Mechanism**: 2,000-year-old computer with 30+ bronze gears
@@ -426,6 +440,14 @@ This documentation presents multiple perspectives on ancient anomalies:
 - Cross-references: knobs.md (feature distribution across phases)
 - Related: All documents discussing multi-phase construction and chronological sequences
 
+### Predynastic Vases Coverage
+- Primary: predynastic-vases.md (comprehensive analysis of hard-stone vase precision and manufacturing mysteries)
+- Cross-references: precision-stonework.md (Egyptian stone vases section, core drilling anomalies)
+- Cross-references: construction-phases.md (predynastic-to-dynastic quality decline pattern)
+- Cross-references: stone-softening-hypothesis.md (speculative stone softening framework)
+- Cross-references: knobs.md (protrusion analysis, handle comparisons)
+- Related: All documents discussing Egyptian manufacturing capabilities and precision anomalies
+
 ## Contributing and Updates
 
 This documentation represents a comprehensive snapshot of ancient anomalies knowledge. The field continues to evolve with:
@@ -439,7 +461,7 @@ This documentation represents a comprehensive snapshot of ancient anomalies know
 
 ### Within This Repository
 - **README.md**: Quick overview and visual diagrams
-- **Ten detailed documents**: In-depth analysis by category
+- **Eleven detailed documents**: In-depth analysis by category
 - **INDEX.md** (this file): Navigation and organization
 
 ### For Further Research
@@ -452,11 +474,11 @@ Each document includes references to:
 
 ## Document Statistics
 
-- **Total Documents**: 10 markdown files
-- **Total Words**: 175,000+
-- **Total Characters**: 725,000+
-- **Total Pages**: ~380 pages equivalent
-- **Topics Covered**: 115+ specific sites, artifacts, and phenomena
+- **Total Documents**: 11 markdown files
+- **Total Words**: 195,000+
+- **Total Characters**: 810,000+
+- **Total Pages**: ~425 pages equivalent
+- **Topics Covered**: 120+ specific sites, artifacts, and phenomena
 - **Time Period Covered**: ~12,000 years (from 9,500-10,000 BCE to present)
 - **Geographic Coverage**: All inhabited continents
 
