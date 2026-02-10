@@ -176,6 +176,20 @@ Start here for a general introduction to ancient anomalies:
 - **Evidence-Based Approach**: Clear distinction between confirmed observations and speculative interpretations
 - **Cross-References**: Integration with megalithic-engineering.md, precision-stonework.md, ancient-knowledge.md, knobs.md
 
+#### 📝 Inscription-Dating Problem
+**[inscription-dating-problem.md](inscription-dating-problem.md)** - NEW: Systematic documentation of the methodological problem of dating Egypt's precision work based on crude later inscriptions:
+- **The Core Argument**: Most technically impressive hard-stone work has no integral Egyptian iconography; where inscriptions exist, they are visibly inferior to the precision engineering
+- **Two-Technology-Traditions Pattern**: Observable asymmetry between precision/megalithic work (no iconography, micron-level tolerances, unexplained methods) vs. hieroglyphic inscriptions (crude, reproducible, standard tools)
+- **Case-by-Case Evidence**: Serapeum boxes (5µm flatness, crude inscriptions), Valley Temple (200+ ton core, weathering paradox), Osireion (zero inscriptions, heaviest weathering), Great Pyramid granite (painted quarry marks only), Predynastic vases (pre-hieroglyphic precision), Sphinx (1,000-year-later attribution)
+- **Composite Pattern Table**: Systematic comparison of uninscribed precision work vs. typical inscribed dynastic work across 9 major artifacts/structures
+- **Circular Dating Methodology**: Documentation of circular reasoning (proximity = attribution → attribution = dating → anomalies explained to fit dating)
+- **Global Pattern**: Connection to construction-phases.md degradation pattern; oldest layers = least inscriptions across sites worldwide
+- **Predynastic Proof**: Highest precision (15-50µm vases) predates hieroglyphic writing entirely (3600-3100 BCE vs. ~3200 BCE)
+- **What Would Resolve This**: Differential weathering analysis, tool-mark microscopy, direct physical dating (OSL, cosmogenic nuclides), patina depth measurements
+- **Research Gap**: No systematic published comparative analysis of precision surfaces vs. inscription cuts exists in peer-reviewed literature
+- **Evidence-Based Summary**: Clear distinction between confirmed observations (precision work lacks iconography, inscriptions inferior quality) vs. interpretations (later additions vs. contemporaneous specialization)
+- **Cross-References**: Integration with construction-phases.md, precision-stonework.md, predynastic-vases.md, megalithic-engineering.md, knobs.md
+
 #### 🏛️ Pyramid Casing Construction
 **[pyramid-casing-construction.md](pyramid-casing-construction.md)** - NEW: Detailed analysis of the Great Pyramid's construction methodology based on surviving casing stones:
 - **Surviving Casing Stones**: Observable evidence from upper courses near apex, block type categorization (corner, standard, tapered, irregular)
