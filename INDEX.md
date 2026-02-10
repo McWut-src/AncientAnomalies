@@ -224,6 +224,105 @@ Start here for a general introduction to ancient anomalies:
 4. Check the "Modern Analysis" and "Current Research" sections
 5. Note the "Open Questions" for areas requiring further study
 
+## AI Agent Resources
+
+For AI agents working with this repository, comprehensive instruction documents are available in the **[.ai-instructions/](.ai-instructions/)** folder. These instructions ensure consistent, evidence-based research and documentation across all AI-generated content.
+
+### Available AI Instruction Documents
+
+#### **[AI Instructions README](.ai-instructions/README.md)**
+Overview and navigation guide for all AI instruction documents. Start here to understand the purpose and structure of AI agent resources.
+
+#### **[AI Agent Reference Guide](.ai-instructions/ai-agent-reference.md)** (48KB)
+Complete reference including:
+- **Site Checklist**: 80+ ancient sites with comprehensive details organized by geographic region
+- **Research Protocols**: 7 topic-specific methodologies (megalithic engineering, precision stonework, OOPArts, ancient knowledge, geoglyphs, construction phases, inscription dating)
+- **Tag Taxonomy**: Complete classification system with 9 categories and 100+ tags
+- **Cross-Reference Matrix**: Which sites are covered in which documents
+- **Quality Assurance**: 5 checklists for maintaining documentation standards
+- **Common Pitfalls**: 10 research mistakes to avoid
+- **Quick Reference Tables**: Stone weights, precision measurements, timelines, Mohs hardness, technology equivalents, tag co-occurrence, geographic distribution, research priority matrix
+
+#### **[AI Research Methodology](.ai-instructions/ai-research-methodology.md)** (43KB)
+Comprehensive research framework including:
+- **Source Quality Hierarchy**: 4-tier credibility system (peer-reviewed to tabloid)
+- **18-Step Research Workflow**: From query analysis to final review
+- **Topic-Specific Protocols**: Precision measurements, stone weight/transport, dating evidence, replication evidence, cross-cultural comparisons, anomaly magnitude assessment
+- **Verification Techniques**: Source triangulation, primary source checking, methodology evaluation, expertise verification, consistency checking
+- **Debunking Protocols**: Known debunked claims, red flags, Sagan standard application
+- **Logical Fallacy Avoidance**: 10 common fallacies with examples
+- **Statistical Thinking**: Base rate fallacy, sample size, survivorship bias, regression to mean
+- **Search Strategies**: Academic databases, citation chaining, museum searches, book searches
+- **Response Formulation**: Structure, tone, language guidelines, presenting controversy
+- **Edge Case Handling**: Unverified provenance, conflicting experts, dating uncertainty, partial debunking, lost vs. advanced technology, indigenous knowledge, cutting-edge research
+
+#### **[YAML Site Guide](.ai-instructions/yaml-site-guide.md)** (33KB)
+Guide for site data structure including:
+- **YAML Format**: Structure explanation (name | location | tags)
+- **Complete Tag Taxonomy**: 9 categories with detailed definitions
+  - Construction techniques (polygonal, cyclopean, precision, mortise-tenon, metal clamps, modular, corner-first, rock-cut)
+  - Precision levels (micron-level, submillimeter, millimeter, mirror polish, CNC-equivalent)
+  - Site types (stone circle, alignment, passage tomb, dolmen, temple, pyramid, underground, mound, effigy, geoglyph)
+  - Engineering features (astronomical alignment, extreme weight, transport mystery, monumental scale, carving, acoustic design, earthquake-resistant, drainage)
+  - Tool evidence (vitrification, core drilling, saw marks, scoop marks, knobs)
+  - Material types (granite, andesite, diorite, basalt, limestone work)
+  - Anomalies (anomalous age, unknown function, technology gap, lost technology, dating controversy, uninscribed precision, weathering paradox, multi-phase construction, inverted timeline)
+  - Specific features (H-blocks, interior channels, handle problem, optical quality, 3D precision, mass production, weathering stratification)
+  - Geographic patterns (Egypt-Peru parallels, global megalithic, cross-cultural consistency)
+- **Geographic Distribution**: Site density by region and continent
+- **Usage Examples**: 7 query examples (precision stonework sites, polygonal masonry, inverted timeline, extreme weights, pre-agricultural sites, Egyptian-Peruvian parallels, acoustic design)
+- **Cross-Reference Matrix**: Feature types mapped to sites and documentation files
+- **Tag Co-occurrence Patterns**: Which tags frequently appear together
+- **Quick Reference Tables**: Sites by precision level, weight category, age, tag frequency, research priority
+
+#### **[HTML Conversion Instructions](.ai-instructions/html-conversion-instructions.md)** (29KB)
+Complete HTML conversion guide including:
+- **Design System**: Color palette (primary, neutral, semantic colors), typography (fonts, sizes, line heights, weights), spacing system (8px base), shadows/effects, border radius
+- **Component Specifications**: Header, navigation sidebar, footer, content cards with full HTML and CSS
+- **Markdown to HTML Rules**: Headers, paragraphs, emphasis, lists, links, images, blockquotes, code, tables, horizontal rules
+- **Content Enrichment**: Tooltips for technical terms, citation formatting, cross-references, info boxes (note, warning, important, tip)
+- **Responsive Design**: Breakpoints (mobile-first), responsive layouts, responsive typography (fluid with clamp), responsive images
+- **Accessibility**: WCAG 2.1 AA compliance checklist (perceivable, operable, understandable, robust), focus management, ARIA landmarks
+- **SEO Optimization**: Meta tags (essential, Open Graph, Twitter Card, canonical), structured data (Schema.org), semantic HTML
+- **Performance**: Critical CSS inlining, image optimization (WebP, lazy loading), font loading strategies, code splitting
+- **Quality Assurance**: Pre-publishing checklist (HTML validation, semantic HTML, accessibility, links, responsive design, performance, SEO, content, browser testing)
+
+### When to Use AI Instructions
+
+**Starting Research**:
+1. Read [ai-agent-reference.md](.ai-instructions/ai-agent-reference.md) → Understand repository structure
+2. Review [ai-research-methodology.md](.ai-instructions/ai-research-methodology.md) → Learn protocols
+3. Check [yaml-site-guide.md](.ai-instructions/yaml-site-guide.md) → Locate sites and tags
+
+**Conducting Research**:
+- Apply source quality hierarchy and topic-specific protocols
+- Use verification techniques and debunking protocols
+- Avoid common pitfalls and logical fallacies
+
+**Creating Documentation**:
+- Follow quality standards and response formulation guidelines
+- Maintain consistency with repository terminology
+- Cross-reference using the matrix
+
+**Converting to HTML**:
+- Follow design system specifications
+- Implement responsive design and accessibility requirements
+- Apply performance optimizations
+
+### Key Principles for AI Agents
+
+These instructions ensure:
+- ✓ **Evidence-Based Research**: All claims supported by credible sources
+- ✓ **Multi-Perspective Analysis**: Conventional and alternative viewpoints presented fairly
+- ✓ **Critical Evaluation**: Systematic analysis using logical frameworks
+- ✓ **Intellectual Honesty**: Clear distinction between facts, interpretations, and speculation
+- ✓ **Technical Precision**: Exact measurements, specifications, and engineering analysis
+- ✓ **Cross-Referencing**: Connections between sites, features, and documentation
+- ✓ **Quality Standards**: Comprehensive checklists for all work products
+- ✓ **Accessibility**: WCAG 2.1 AA compliance for all HTML output
+
+**Total AI Instruction Documentation**: 162KB across 5 comprehensive guides
+
 ## Document Organization
 
 Each detailed document follows a consistent structure:
