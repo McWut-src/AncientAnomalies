@@ -750,7 +750,7 @@ How would modern manufacturing handle this challenge?
 - **Process**: Tool path programmed to avoid collision with handles
 - **Continuous surface**: Ball-end mill or rotary cutter can follow complex path
 - **Result**: Can produce handled vessels with excellent precision
-- **Availability**: Late 1970s–1980s commercially available
+- **Availability**: Late 1970s-1980s commercially available
 - **Cost**: Modern 5-axis CNC: $100,000–$500,000+ for machine, plus programming
 
 **Solution 2: Sequential Fixturing (Turn, Remove, Carve, Remount)**
@@ -1337,7 +1337,7 @@ The lack of physical evidence for precision rotary machinery creates three inter
 
 **Background:**
 - British Egyptologist and experimental archaeologist
-- Conducted extensive replication experiments in 1980s–1990s
+- Conducted extensive replication experiments in 1980s-1990s
 - Published results in peer-reviewed journals
 - Goal: Demonstrate feasibility of ancient techniques using period-appropriate tools
 
@@ -1490,7 +1490,7 @@ Experimental archaeology demonstrating "possible with ancient tools" at moderate
   - CAD/CAM programming (specialized software, trained operators)
   - Coolant systems, precision fixturing, quality control metrology
   - **Total cost per vessel**: $10,000–$30,000+ (machine time, tooling, programming, materials)
-  - **Availability**: Late 1970s–1980s for 5-axis CNC; earlier methods insufficient for this precision in hard stone
+  - **Availability**: Late 1970s-1980s for 5-axis CNC; earlier methods insufficient for this precision in hard stone
 
 The fact that predynastic craftsmen achieved comparable results ~5,500 years earlier using unknown methods remains one of the most compelling precision anomalies in the archaeological record.
 
@@ -1561,7 +1561,7 @@ To create a predynastic-style handled hard-stone vessel TODAY using modern metho
 
 **Key Points:**
 - Modern replication is **extremely expensive**
-- Requires **recent technology** (1970s–1980s and later)
+- Requires **recent technology** (1970s-1980s and later)
 - Still **challenging** even with modern equipment
 - Predynastic production scale (thousands of vessels) would cost **millions of dollars** in modern manufacturing
 
@@ -1674,7 +1674,7 @@ The predynastic hard-stone vessels stand as testament to human capability and in
 
 ## Modern CNC Interior Hollowing Limitations
 
-While the previous section compared ancient precision to modern capabilities in general terms, this section examines a more specific technical challenge: **interior hollowing of narrow-necked, bulbous hard-stone vessels**. Even assuming the availability of modern 5-axis CNC machining with diamond tooling—technology that didn't exist until the 1970s–1980s—certain predynastic vessel geometries present manufacturing challenges that strain or exceed the capabilities of standard commercially available CNC equipment.
+While the previous section compared ancient precision to modern capabilities in general terms, this section examines a more specific technical challenge: **interior hollowing of narrow-necked, bulbous hard-stone vessels**. Even assuming the availability of modern 5-axis CNC machining with diamond tooling—technology that didn't exist until the 1970s-1980s—certain predynastic vessel geometries present manufacturing challenges that strain or exceed the capabilities of standard commercially available CNC equipment.
 
 This analysis is particularly relevant to the manufacturing mystery because it demonstrates that the precision problem extends beyond simple rotational symmetry. Interior hollowing through restricted openings in hard stone faces fundamental physics limitations related to tool geometry, deflection, and accessibility—constraints that apply equally to ancient and modern rigid-tool machining approaches.
 
@@ -2051,7 +2051,7 @@ This requires:
 - Difficulty achieving smooth surface finish
 
 ✅ **Conclusion**: Type E vessels are **feasible for modern CNC** but still require:
-- Recent technology (diamond tooling, precision spindles—1970s–1980s+)
+- Recent technology (diamond tooling, precision spindles—1970s-1980s+)
 - Skilled programming and setup
 - Proper fixtures addressing the base ring
 - Careful attention to concentricity across operations
@@ -2069,9 +2069,9 @@ For **16 mm carbide tool, 64 mm overhang** at F = 20 N:
 I = π × (16⁴) / 64 = 3,217 mm⁴
 δ = (20 × 64³) / (3 × 580,000 × 3,217)
 δ = 5,242,880 / 5,597,320,000
-δ = 0.00094 mm = 0.94 µm ≈ 1 µm
+δ = 0.00094 mm = 0.94 µm ≈ 1 µm (theoretical)
 
-Rounding for practical measurement: 5 µm (accounts for tool holder and dynamic effects)
+With 2× safety factor for real-world conditions: ~2 µm (table value)
 ```
 
 | Tool Diameter (mm) | Overhang (mm) | L/D Ratio | Material | E (GPa) | Deflection at 20 N (µm) | Deflection at 50 N (µm) | Feasible for 50 µm target? | Feasible for 15 µm target? |
@@ -2256,7 +2256,7 @@ This analysis of interior hollowing challenges provides important context for th
 
 **Key Conclusions:**
 
-1. **Even with modern 5-axis CNC and diamond tooling** (technology unavailable until the 1970s–1980s), at least **two of the five common predynastic vessel types** (Type A: narrow-neck globular, Type B: long-necked bottle) present geometries that are **extremely difficult or impossible** to machine to the observed precision (15–50 µm) using any commercially available rigid tooling system. The physics of cantilever beam deflection at L/D ratios above 10:1 creates fundamental limitations that apply equally to ancient and modern rigid-tool approaches.
+1. **Even with modern 5-axis CNC and diamond tooling** (technology unavailable until the 1970s-1980s), at least **two of the five common predynastic vessel types** (Type A: narrow-neck globular, Type B: long-necked bottle) present geometries that are **extremely difficult or impossible** to machine to the observed precision (15–50 µm) using any commercially available rigid tooling system. The physics of cantilever beam deflection at L/D ratios above 10:1 creates fundamental limitations that apply equally to ancient and modern rigid-tool approaches.
 
 2. **The tri-lobed schist vessels (Type D)** present a different challenge—not tool access but **geometric complexity + material fracture risk**. These vessels are among the most remarkable in the predynastic record and are feasible for modern 5-axis CNC but would still have high scrap rates (20–50%) due to the extreme thinness (1–3 mm) and schist's tendency to delaminate. The fact that ancient craftsmen successfully produced these suggests either extraordinary skill or a fundamentally different manufacturing approach less prone to fracture.
 
