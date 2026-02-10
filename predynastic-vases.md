@@ -2060,7 +2060,7 @@ This is the **only type of the five** that is straightforward for standard moder
 
 ### 3. Tool Deflection Analysis Table
 
-The following table presents calculated deflection values using the cantilever beam formula for various tool geometries and cutting loads. These values represent the **static deflection** under steady load—actual deflection in use is typically **1.5–2× higher** due to dynamic effects (vibration), tool holder compliance, spindle bearing clearance, and thermal expansion.
+The following table presents deflection values for various tool geometries and cutting loads. These are **practical real-world estimates** that include safety factors for dynamic effects (vibration), tool holder compliance, spindle bearing clearance, and thermal expansion—approximately **2× the theoretical static deflection** calculated from the cantilever beam formula alone.
 
 **Calculation method** (using formula from Section 1):
 
@@ -2077,13 +2077,13 @@ Rounding for practical measurement: 5 µm (accounts for tool holder and dynamic 
 | Tool Diameter (mm) | Overhang (mm) | L/D Ratio | Material | E (GPa) | Deflection at 20 N (µm) | Deflection at 50 N (µm) | Feasible for 50 µm target? | Feasible for 15 µm target? |
 |---|---|---|---|---|---|---|---|---|
 | 16 | 64 | 4 | Carbide | 580 | 5 | 12 | ✅ Yes | ✅ Marginal |
-| 16 | 112 | 7 | Carbide | 580 | 26 | 64 | ❌ No (at 50N) | ❌ No |
-| 10 | 100 | 10 | Carbide | 580 | 52 | 130 | ❌ No | ❌ No |
-| 10 | 100 | 10 | HSS | 200 | 151 | 377 | ❌ No | ❌ No |
-| 6 | 120 | 20 | Carbide | 580 | 531 | 1,327 | ❌ No | ❌ No |
-| 6 | 120 | 20 | HSS | 200 | 1,540 | 3,850 | ❌ No | ❌ No |
-| 25 | 100 | 4 | Carbide | 580 | 5 | 13 | ✅ Yes | ✅ Marginal |
-| 25 | 175 | 7 | Carbide | 580 | 29 | 73 | ❌ No (at 50N) | ❌ No |
+| 16 | 112 | 7 | Carbide | 580 | 25 | 63 | ❌ No (at 50N) | ❌ No |
+| 10 | 100 | 10 | Carbide | 580 | 47 | 117 | ❌ No | ❌ No |
+| 10 | 100 | 10 | HSS | 200 | 136 | 340 | ❌ No | ❌ No |
+| 6 | 120 | 20 | Carbide | 580 | 624 | 1,561 | ❌ No | ❌ No |
+| 6 | 120 | 20 | HSS | 200 | 1,811 | 4,527 | ❌ No | ❌ No |
+| 25 | 100 | 4 | Carbide | 580 | 3 | 7 | ✅ Yes | ✅ Yes |
+| 25 | 175 | 7 | Carbide | 580 | 13 | 32 | ✅ Marginal | ❌ No |
 
 **Key Observations:**
 
