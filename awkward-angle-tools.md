@@ -8,7 +8,7 @@ When these anomalies occur on extremely hard materials like granite (Mohs hardne
 
 The simplest explanation for many of these cases is that **the stone was in a different orientation during fabrication**—that massive blocks were carved, detailed, and finished while positioned for optimal tool access (often inverted or on their sides), then rotated and installed in their final position. Yet this "rotation-during-fabrication" hypothesis creates its own paradoxes: moving 70-ton granite boxes after interior finishing, rotating 200-ton megalithic blocks after carving details on all six faces, or somehow working both the interior and exterior of massive stones when neither orientation provides adequate access.
 
-This document systematically examines the evidence for awkward-angle tool access problems across multiple ancient sites, analyzes the physical constraints that make conventional explanations inadequate, and explores the implications for understanding ancient construction capabilities.
+This document systematically examines the evidence for awkward-angle tool access problems across multiple ancient sites, analyzes the physical constraints and evaluates conventional explanations, and explores the implications for understanding ancient construction capabilities.
 
 ### Scope and Methodology
 
