@@ -1,4 +1,4 @@
-# Overcuts and Awkward-Angle Tool Access in Ancient Hard Stone
+# Overcuts and Awkward-Angle Tool Access in Ancient Hard-Stone Work
 
 ## Introduction
 
@@ -153,7 +153,7 @@ Overcuts appear systematically in inaccessible locations, not randomly distribut
 
 To evaluate access claims, we must consider the physical requirements for working hard stone:
 
-**Minimum Space Requirements for Hard Stone Work:**
+**Minimum Space Requirements for Hard-Stone Work:**
 
 | Work Type | Minimum Space | Why Required |
 |-----------|---------------|--------------|
