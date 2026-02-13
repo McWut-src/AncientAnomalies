@@ -144,6 +144,23 @@ Start here for a general introduction to ancient anomalies:
 - **Archaeological Context**: Dating challenges, quarrying operations, cultural contexts
 - **Alternative Theories**: Natural formation (minority), advanced tool technology, quarrying methodology
 
+#### ⚒️ Awkward-Angle Tool Access
+**[awkward-angle-tools.md](awkward-angle-tools.md)** - NEW: Comprehensive analysis of overcuts and tool marks in ergonomically impossible positions:
+- **Awkward-Angle Problem**: Tool marks and precision features appearing in locations inaccessible in final installed orientation
+- **Serapeum Sarcophagi Interior**: 70-ton granite boxes with 5-micron interior flatness, lid underside finishing impossibility
+- **Puma Punku H-Block Channels**: Interior channels 8-15 cm wide with 1-2 mm tolerance, overcut evidence at terminations
+- **Gal Vihara Rock-Cut Buddhas**: 7m-14m granite sculptures with under-arm, under-knee, and deep fold details carved in-situ
+- **Aswan Quarries**: Unfinished Obelisk trenches 60-85 cm wide, 2.5-4m deep with precision tool marks on all surfaces
+- **Egyptian Colossi Overcuts**: Ramses II statues (20-1,000 tons) with between-leg channels, armpit details, behind-ear features
+- **Rock-Cut Architecture**: Kailasa Temple, Ellora Caves excavated from above with precision details in inverted positions
+- **Rotation-During-Fabrication Evidence**: Quarry-stage marks, pivot scars, historical attestation, practical inference
+- **Rotation Paradoxes**: Infrastructure gap, mass/risk analysis (70-ton interior-finished boxes), skill distribution mysteries
+- **Ergonomic Analysis Framework**: Minimum workspace requirements vs. available space measurements
+- **Technical Comparison Tables**: Cross-site analysis of access constraints, precision vs. accessibility paradoxes
+- **Time-Motion Studies**: Labor multipliers for awkward-position work (2-5× conventional estimates)
+- **Open Research Questions**: 3D mapping of overcut orientations, replication damage patterns, ergonomic modeling
+- **Cross-References**: Integration with precision-stonework.md, scoop-marks.md, megalithic-engineering.md, knobs.md, construction-phases.md
+
 #### 🔬 Stone Softening Hypothesis
 **[stone-softening-hypothesis.md](stone-softening-hypothesis.md)** - NEW: Comprehensive speculative analysis examining nubs, knobs, and scoop marks under a stone softening framework:
 - **⚠️ SPECULATIVE ANALYSIS**: Intellectual thought experiment, not established archaeological fact
@@ -587,11 +604,11 @@ Each document includes references to:
 
 ## Document Statistics
 
-- **Total Documents**: 11 markdown files
-- **Total Words**: 195,000+
-- **Total Characters**: 810,000+
-- **Total Pages**: ~425 pages equivalent
-- **Topics Covered**: 120+ specific sites, artifacts, and phenomena
+- **Total Documents**: 12 markdown files
+- **Total Words**: 220,000+
+- **Total Characters**: 920,000+
+- **Total Pages**: ~480 pages equivalent
+- **Topics Covered**: 125+ specific sites, artifacts, and phenomena
 - **Time Period Covered**: ~12,000 years (from 9,500-10,000 BCE to present)
 - **Geographic Coverage**: All inhabited continents
 
